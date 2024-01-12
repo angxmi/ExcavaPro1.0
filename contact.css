@@ -1,0 +1,32 @@
+body{
+   background-color: darkcyan;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+
+}
+.container{
+  display: flex;
+  margin-top: 20%;
+}
+
+.container .address p{
+  margin-left: 50%;
+}
+
+.container .phone img{
+  margin-left: 100%;
+}
+.container .phone p{
+  margin-left: 100%; 
+}
+.container .em p{
+  height: 50px;
+  width: 250px;
+  margin-top: 65%;
+
+}
+.container .email{
+  margin-left: 8%;
+}
+

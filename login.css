@@ -1,0 +1,41 @@
+body{
+    background-image: url(rock.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.form{
+    height: 450px;
+    width: 480px;
+    border-radius: 12px;
+    background-color: darkslategrey;
+    margin:25%;
+    margin-top: 5%;
+}
+.form h1{
+    text-align: center;
+}
+.inputbox input{
+    height: 50px;
+    width: 67%;
+    margin-left: 12%;
+    border-radius: 12px;
+    margin-top: 6%;
+}
+.login input{
+    height: 50px;
+    width: 68%;
+    margin-left: 12%;
+    border-radius: 12px;
+    margin-top: 12%;
+}
+.headings{
+    display: flex;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.headings h3{
+margin-left: 35%;
+}
+.form .login input:hover{
+    background-color: cadetblue;
+}
